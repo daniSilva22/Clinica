@@ -40,9 +40,9 @@ O HospCenter tem como objetivo facilitar o acesso dos usuários às suas informa
 
 ## 8. Requisitos Não Funcionais
 
-1. Garantir o sigilo e a proteção dos dados dos usuários.
-2. Controle de acesso por meio de autenticação.
-3. Necessidade do ambiente com suporte ao C# para execução do sistema.
+1. Os dados devem ser armazenados no banco de dados.
+2. Sistema com login de usuário.
+3. Sistema desenvolvido em C#.
 4. Interface simples, intuitiva e de fácil utilização.
 5. Responsividade para diferentes tamanhos de tela.
 
