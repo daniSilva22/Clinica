@@ -1,15 +1,15 @@
 ## 7. Requisitos Funcionais
 
-1. Agendamento de consultas.
-2. Consulta de horários disponíveis.
-3. Visualização dos medicamentos prescritos pelo médico.
-4. Consulta de receitas médicas.
-5. Remarcação de consultas.
-6. Cancelamento de consultas.
-7. Envio de lembretes sobre consultas agendadas.
-8. Cadastro e gerenciamento de convênios médicos.
-9. Acesso aos exames enviados pelo médico.
-10. Envio e consulta de atestados médicos.
+1.Permitir o cadastro de pacientes.
+2.Permitir que o paciente faça login no sistema.
+3.Permitir agendar consultas.
+4.Permitir consultar os horários disponíveis para atendimento.
+5.Permitir visualizar as consultas agendadas.
+6.Permitir remarcar consultas.
+7.Permitir cancelar consultas.
+8.Permitir consultar medicamentos prescritos.
+9.Permitir visualizar receitas médicas.
+10.Permitir consultar exames e atestados médicos.
 
 ## 8. Requisitos Não Funcionais
 
