@@ -51,3 +51,14 @@ O HospCenter tem como objetivo facilitar o acesso dos usuários às suas informa
 ## 9. Público-Alvo
 
 * Pacientes maiores de 18 anos.
+
+## Fluxo
+Ao iniciar o sistema, o usuário deverá realizar o login. Caso ainda não possua cadastro, deverá realizar seu cadastro antes de acessar o sistema. Após o login, o usuário será direcionado para a tela inicial do HospCenter.
+
+Na tela inicial, o usuário poderá acessar as principais funções do sistema, como agendamento de consultas, visualização de consultas, medicamentos, receitas, exames, atestados e informações do perfil.
+
+Para agendar uma consulta, o usuário deverá escolher a especialidade, o médico, a data e um horário disponível. Após a confirmação, o agendamento será armazenado no banco de dados SQL.
+
+O usuário também poderá consultar suas consultas agendadas, podendo remarcar ou cancelar uma consulta quando necessário. Além disso, poderá acessar seus medicamentos, receitas, exames e atestados cadastrados no sistema.
+
+Ao finalizar o uso, o usuário poderá sair do sistema, retornando à tela de login.
