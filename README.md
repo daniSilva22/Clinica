@@ -25,11 +25,8 @@ Desenvolver um sistema para gerenciamento de consultas e informações hospitala
 
 O HospCenter tem como objetivo facilitar o acesso dos usuários às suas informações médicas, oferecendo recursos para agendamento de consultas, visualização de receitas, medicamentos, exames e demais documentos médicos. Buscando proporcionar praticidade, organização e segurança no gerenciamento das informações de saúde.
 
-## 7. Público-Alvo
 
-* Pacientes maiores de 18 anos.
-
-## 8. Requisitos Funcionais
+## 7. Requisitos Funcionais
 
 1. Permitir o cadastro de pacientes.
 2. Permitir que o paciente faça login no sistema.
@@ -42,10 +39,15 @@ O HospCenter tem como objetivo facilitar o acesso dos usuários às suas informa
 9. Permitir visualizar receitas médicas.
 10. Permitir consultar exames e atestados médicos.
 
-## 9. Requisitos Não Funcionais
+## 8. Requisitos Não Funcionais
 
 1. Os dados devem ser armazenados no banco de dados.
 2. Sistema com login de usuário.
 3. Sistema desenvolvido em C#.
 4. Interface simples, intuitiva e de fácil utilização.
 5. Responsividade para diferentes tamanhos de tela.
+
+
+## 9. Público-Alvo
+
+* Pacientes maiores de 18 anos.
